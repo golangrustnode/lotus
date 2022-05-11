@@ -1,0 +1,61 @@
+2022-04-26T11:34:42.324+0800	INFO	main	lotus-miner/run.go:100	Checking full node sync status
+2022-04-26T11:34:42.334+0800	INFO	modules	modules/core.go:64	memory limits initialized	{"max_mem_heap": 0, "total_system_mem": 17179869184, "effective_mem_limit": 17179869184}
+2022-04-26T11:34:42.334+0800	WARN	modules	modules/core.go:124	failed to initialize cgroup-driven watchdog; err: cgroups-driven watchdog: watchdog run mode not supported
+2022-04-26T11:34:42.334+0800	WARN	modules	modules/core.go:125	trying a system-driven watchdog
+2022-04-26T11:34:42.334+0800	INFO	watchdog	go-watchdog@v1.2.0/watermarks.go:16	initialized watermark watchdog policy; watermarks: []; thresholds: [8589934592 10307921510 12025908428 14602888806 15461882265 15891378995 16320875724]
+2022-04-26T11:34:42.334+0800	INFO	watchdog	go-watchdog@v1.2.0/watchdog.go:471	initialized heap profile capture; threshold: 0.900000; max captures: 10; dir: /Users/developer/.lotusminerDevnet/heapprof
+2022-04-26T11:34:42.334+0800	INFO	modules	modules/core.go:130	initialized system-driven watchdog
+2022-04-26T11:34:42.335+0800	ERROR	alerting	alerting/alerts.go:105	alert raised	{"type": {"System":"process","Subsystem":"fd-limit"}, "message": {"message":"soft FD limit is low","recommended_min":100000,"soft_limit":16384}}
+2022-04-26T11:34:42.341+0800	INFO	badger	v2@v2.2007.3/levels.go:183	All 0 tables opened in 0s
+
+2022-04-26T11:34:42.362+0800	INFO	badger	v2@v2.2007.3/value.go:1158	Replaying file id: 0 at offset: 0
+
+2022-04-26T11:34:42.362+0800	INFO	badger	v2@v2.2007.3/value.go:1178	Replay took: 2.25µs
+
+2022-04-26T11:34:42.363+0800	INFO	badger	v2@v2.2007.3/levels.go:183	All 0 tables opened in 0s
+
+2022-04-26T11:34:42.383+0800	INFO	badger	v2@v2.2007.3/value.go:1158	Replaying file id: 0 at offset: 0
+
+2022-04-26T11:34:42.383+0800	INFO	badger	v2@v2.2007.3/value.go:1178	Replay took: 2.042µs
+
+2022-04-26T11:34:42.462+0800	INFO	backupds	backupds/log.go:106	creating log	{"file": "/Users/developer/.lotusminerDevnet/kvlog/metadata/1650944082.log.cbor"}
+2022-04-26T11:34:42.462+0800	INFO	backupds	backupds/datastore.go:76	Starting datastore backup
+2022-04-26T11:34:42.463+0800	INFO	backupds	backupds/datastore.go:131	Datastore backup done
+2022-04-26T11:34:42.482+0800	INFO	backupds	backupds/log.go:119	log opened	{"file": "/Users/developer/.lotusminerDevnet/kvlog/metadata/1650944082.log.cbor"}
+2022-04-26T11:34:42.501+0800	INFO	backupds	backupds/log.go:234	new log head	{"loghead": "1650944082.log.cbor;11745c5f-2313-4edd-8f6c-99a53f2731ce;1650944082"}
+2022-04-26T11:34:42.501+0800	INFO	p2pnode	lp2p/rcmgr.go:33	libp2p resource manager is disabled
+2022-04-26T11:34:42.505+0800	INFO	p2pnode	lp2p/addrs.go:101	Swarm listening at: [/ip4/127.0.0.1/tcp/55331 /ip4/10.1.8.182/tcp/55331 /ip4/26.26.26.1/tcp/55331 /ip6/::1/tcp/55334]
+2022-04-26T11:34:42.506+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-7d739b8cf60f1b0709eeebee7730e297683552e4b69cab6984ec0285663c5781.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-0cfb4f178bbb71cf2ecfcd42accce558b27199ab4fb59cb78f2483fe21ef36d9.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-empty-sector-update-merkletree-poseidon_hasher-8-0-0-fb9e095bebdd77511c0269b967b4d87ba8b8a525edaa0e165de23ba454510194.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-50c7368dea9593ed0989e70974d28024efa9d156d585b7eea1be22b2e753f331.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-empty-sector-update-merkletree-poseidon_hasher-8-8-2-102e1444a7e9a97ebf1e3d6855dcc77e66c011ea66f936d9b2c508f87f2f83a7.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-3ea05428c9d11689f23529cde32fd30aabd50f7d2c93657c1d3650bca3e8ea9e.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-ecd683648512ab1765faa2a5f14bab48f676e633467f0aa8aad4b55dcb0652bb.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-empty-sector-update-merkletree-poseidon_hasher-8-8-0-3b7f44a9362e3985369454947bc94022e118211e49fd672d52bec1cbfd599d18.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-559e581f022bb4e4ec6e719e563bf0e026ad6de42e56c18714a2c692b1b88d7e.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-0170db1f394b35d995252228ee359194b13199d259380541dc529fb0099096b0.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-5294475db5237a2e83c3e52fd6c2b03859a1831d45ed08c4f35dbf9a803165a9.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-2-sha256_hasher-96f1b4a04c5c51e4759bbf224bbc2ef5a42c7100f16ec0637123f16a845ddfb2.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-032d3138d22506ec0082ed72b2dcba18df18477904e35bafee82b3793b06832f.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-6babf46ce344ae495d558e7770a585b2382d54f225af8ed0397b8be7c3fcd472.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-empty-sector-update-merkletree-poseidon_hasher-8-0-0-92180959e1918d26350b8e6cfe217bbdd0a2d8de51ebec269078b364b715ad63.vk is ok
+2022-04-26T11:34:42.507+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-empty-sector-update-merkletree-poseidon_hasher-8-0-0-61fa69f38b9cc771ba27b670124714b4ea77fbeae05e377fb859c4a43b73a30c.vk is ok
+2022-04-26T11:34:42.508+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-b62098629d07946e9028127e70295ed996fe3ed25b0f9f88eb610a0ab4385a3c.vk is ok
+2022-04-26T11:34:42.515+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-0377ded656c6f524f1618760bffe4e0a1c51d5a70c4509eedae8a27555733edc.vk is ok
+2022-04-26T11:34:42.515+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-2627e4006b67f99cef990c0a47d5426cb7ab0a0ad58fc1061547bf2d28b09def.vk is ok
+2022-04-26T11:34:42.528+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-0170db1f394b35d995252228ee359194b13199d259380541dc529fb0099096b0.params is ok
+2022-04-26T11:34:42.587+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-3ea05428c9d11689f23529cde32fd30aabd50f7d2c93657c1d3650bca3e8ea9e.params is ok
+2022-04-26T11:34:43.107+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-fil-inner-product-v1.srs is ok
+2022-04-26T11:34:43.734+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-empty-sector-update-merkletree-poseidon_hasher-8-0-0-fb9e095bebdd77511c0269b967b4d87ba8b8a525edaa0e165de23ba454510194.params is ok
+2022-04-26T11:34:44.347+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-032d3138d22506ec0082ed72b2dcba18df18477904e35bafee82b3793b06832f.params is ok
+2022-04-26T11:34:44.347+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:233	parameter and key-fetching complete
+2022-04-26T11:34:44.348+0800	INFO	stores	stores/index.go:175	New sector storage: d4c822bf-5e38-4205-bfbc-31a3f641980b
+2022-04-26T11:34:44.348+0800	INFO	stores	stores/index.go:175	New sector storage: bdeaac71-ddba-4c2d-9ba4-bf2f52551e52
+2022-04-26T11:34:44.348+0800	WARN	modules	modules/core.go:148	Generating new API secret
+2022-04-26T11:34:44.417+0800	WARN	storedask	storedask/storedask.go:172	no previous ask found, miner will not accept deals until a price is set
+2022-04-26T11:34:44.591+0800	ERROR	modules	modules/storageminer_idxprov.go:52	Failed to join indexer topic	{"idxProvEnabled": true, "pid": "12D3KooWLRX8a3TED1WyXJ4KJAbsFZi6FJJnu2yyifHbepMcP3WG", "topic": "/indexer/ingest/mainnet", "retAddrs": ["/ip4/10.1.8.182/tcp/55331","/ip4/127.0.0.1/tcp/55331","/ip6/::1/tcp/55334"], "err": "topic is not allowed by the subscription filter"}
+ERROR: creating node: starting node: could not build arguments for function "github.com/filecoin-project/lotus/node/modules".HandleDeals (/Users/developer/workspace/go/src/github.com/filecoin-project/devlotus/node/modules/storageminer.go:283): failed to build storagemarket.StorageProvider: could not build arguments for function "reflect".makeFuncStub (/usr/local/go/src/reflect/asm_arm64.s:12): failed to build provider.Interface: received non-nil error from function "reflect".makeFuncStub (/usr/local/go/src/reflect/asm_arm64.s:12): joining indexer topic /indexer/ingest/mainnet: topic is not allowed by the subscription filter
+
+2022-04-26T11:34:44.595+0800	WARN	events	events/observer.go:60	listenHeadChanges quit

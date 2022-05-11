@@ -1,0 +1,122 @@
+2022-04-26T11:34:02.834+0800	INFO	main	lotus/daemon.go:217	lotus repo: /Users/developer/.lotusDevnet
+2022-04-26T11:34:02.834+0800	INFO	repo	repo/fsrepo.go:140	Initializing repo at '/Users/developer/.lotusDevnet'
+2022-04-26T11:34:02.835+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-empty-sector-update-merkletree-poseidon_hasher-8-0-0-92180959e1918d26350b8e6cfe217bbdd0a2d8de51ebec269078b364b715ad63.vk is ok
+2022-04-26T11:34:02.835+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-empty-sector-update-merkletree-poseidon_hasher-8-8-0-3b7f44a9362e3985369454947bc94022e118211e49fd672d52bec1cbfd599d18.vk is ok
+2022-04-26T11:34:02.835+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-559e581f022bb4e4ec6e719e563bf0e026ad6de42e56c18714a2c692b1b88d7e.vk is ok
+2022-04-26T11:34:02.835+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-empty-sector-update-merkletree-poseidon_hasher-8-0-0-fb9e095bebdd77511c0269b967b4d87ba8b8a525edaa0e165de23ba454510194.vk is ok
+2022-04-26T11:34:02.837+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-7d739b8cf60f1b0709eeebee7730e297683552e4b69cab6984ec0285663c5781.vk is ok
+2022-04-26T11:34:02.837+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-empty-sector-update-merkletree-poseidon_hasher-8-0-0-61fa69f38b9cc771ba27b670124714b4ea77fbeae05e377fb859c4a43b73a30c.vk is ok
+2022-04-26T11:34:02.837+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-empty-sector-update-merkletree-poseidon_hasher-8-8-2-102e1444a7e9a97ebf1e3d6855dcc77e66c011ea66f936d9b2c508f87f2f83a7.vk is ok
+2022-04-26T11:34:02.837+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-50c7368dea9593ed0989e70974d28024efa9d156d585b7eea1be22b2e753f331.vk is ok
+2022-04-26T11:34:02.837+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk is ok
+2022-04-26T11:34:02.838+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-3ea05428c9d11689f23529cde32fd30aabd50f7d2c93657c1d3650bca3e8ea9e.vk is ok
+2022-04-26T11:34:02.838+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-b62098629d07946e9028127e70295ed996fe3ed25b0f9f88eb610a0ab4385a3c.vk is ok
+2022-04-26T11:34:02.838+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-ecd683648512ab1765faa2a5f14bab48f676e633467f0aa8aad4b55dcb0652bb.vk is ok
+2022-04-26T11:34:02.838+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-2-sha256_hasher-96f1b4a04c5c51e4759bbf224bbc2ef5a42c7100f16ec0637123f16a845ddfb2.vk is ok
+2022-04-26T11:34:02.838+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-0cfb4f178bbb71cf2ecfcd42accce558b27199ab4fb59cb78f2483fe21ef36d9.vk is ok
+2022-04-26T11:34:02.838+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-032d3138d22506ec0082ed72b2dcba18df18477904e35bafee82b3793b06832f.vk is ok
+2022-04-26T11:34:02.838+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-6babf46ce344ae495d558e7770a585b2382d54f225af8ed0397b8be7c3fcd472.vk is ok
+2022-04-26T11:34:02.838+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-5294475db5237a2e83c3e52fd6c2b03859a1831d45ed08c4f35dbf9a803165a9.vk is ok
+2022-04-26T11:34:02.838+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-0170db1f394b35d995252228ee359194b13199d259380541dc529fb0099096b0.vk is ok
+2022-04-26T11:34:02.842+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-2627e4006b67f99cef990c0a47d5426cb7ab0a0ad58fc1061547bf2d28b09def.vk is ok
+2022-04-26T11:34:02.844+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-0377ded656c6f524f1618760bffe4e0a1c51d5a70c4509eedae8a27555733edc.vk is ok
+2022-04-26T11:34:03.330+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:209	Parameter file /var/tmp/filecoin-proof-parameters/v28-fil-inner-product-v1.srs is ok
+2022-04-26T11:34:03.330+0800	INFO	paramfetch	go-paramfetch@v0.0.4/paramfetch.go:233	parameter and key-fetching complete
+2022-04-26T11:34:03.330+0800	WARN	build	build/genesis.go:19	loading built-in genesis: read genesis: is a directory
+2022-04-26T11:34:03.337+0800	INFO	modules	modules/core.go:64	memory limits initialized	{"max_mem_heap": 0, "total_system_mem": 17179869184, "effective_mem_limit": 17179869184}
+2022-04-26T11:34:03.338+0800	WARN	modules	modules/core.go:124	failed to initialize cgroup-driven watchdog; err: cgroups-driven watchdog: watchdog run mode not supported
+2022-04-26T11:34:03.338+0800	WARN	modules	modules/core.go:125	trying a system-driven watchdog
+2022-04-26T11:34:03.338+0800	INFO	watchdog	go-watchdog@v1.2.0/watermarks.go:16	initialized watermark watchdog policy; watermarks: []; thresholds: [8589934592 10307921510 12025908428 14602888806 15461882265 15891378995 16320875724]
+2022-04-26T11:34:03.338+0800	INFO	watchdog	go-watchdog@v1.2.0/watchdog.go:471	initialized heap profile capture; threshold: 0.900000; max captures: 10; dir: /Users/developer/.lotusDevnet/heapprof
+2022-04-26T11:34:03.338+0800	INFO	modules	modules/core.go:130	initialized system-driven watchdog
+2022-04-26T11:34:03.347+0800	INFO	p2pnode	lp2p/rcmgr.go:33	libp2p resource manager is disabled
+2022-04-26T11:34:03.412+0800	INFO	badger	v2@v2.2007.3/levels.go:183	All 0 tables opened in 0s
+
+2022-04-26T11:34:03.517+0800	INFO	badger	v2@v2.2007.3/levels.go:183	All 0 tables opened in 0s
+
+2022-04-26T11:34:03.636+0800	INFO	backupds	backupds/log.go:106	creating log	{"file": "/Users/developer/.lotusDevnet/kvlog/metadata/1650944043.log.cbor"}
+2022-04-26T11:34:03.637+0800	INFO	backupds	backupds/datastore.go:76	Starting datastore backup
+2022-04-26T11:34:03.637+0800	INFO	backupds	backupds/datastore.go:131	Datastore backup done
+2022-04-26T11:34:03.656+0800	INFO	backupds	backupds/log.go:119	log opened	{"file": "/Users/developer/.lotusDevnet/kvlog/metadata/1650944043.log.cbor"}
+2022-04-26T11:34:03.676+0800	INFO	backupds	backupds/log.go:234	new log head	{"loghead": "1650944043.log.cbor;0f62cb07-a7a4-4b61-af6a-358b94a3af7b;1650944043"}
+2022-04-26T11:34:03.766+0800	INFO	badgerbs	v2@v2.2007.3/levels.go:183	All 0 tables opened in 0s
+
+2022-04-26T11:34:03.806+0800	WARN	chainstore	store/store.go:222	no previous chain state found
+2022-04-26T11:34:03.806+0800	WARN	genesis	testing/genesis.go:57	Generating new random genesis block, note that this SHOULD NOT happen unless you are setting up new network
+init set t3rp4nb7lqygzcmuxbdpzwjfvtk346y4eqjgefl7kzjclgfuhias3n4re3x2saq5lcskh4nhpmfobbj7v7thja t0100
+init set t1ceb34gnsc6qk5dt6n7xg6ycwzasjhbxm3iylkiy t0101
+publishing 2 storage deals on miner t01000 with worker t3rp4nb7lqygzcmuxbdpzwjfvtk346y4eqjgefl7kzjclgfuhias3n4re3x2saq5lcskh4nhpmfobbj7v7thja
+0.000001621003269618 FIL
+0.000001621003269618 FIL
+2022-04-26T11:34:03.833+0800	INFO	genesis	genesis/genesis.go:601	Empty Genesis root: bafy2bzacedswlcz5ddgqnyo3sak3jmhmkxashisnlpq6ujgyhe4mlobzpnhs6
+GENESIS MINER ADDRESS: t01000
+2022-04-26T11:34:03.834+0800	WARN	genesis	testing/genesis.go:97	WRITING GENESIS FILE AT devgen.car
+2022-04-26T11:34:03.835+0800	WARN	chainstore	store/store.go:641	no heaviest tipset found, using [bafy2bzacedvtuj2g77b4ryrum2tjzzi5cr3j6s3fcbgcy3326yg5y2gxreveo]
+2022-04-26T11:34:03.835+0800	INFO	chainstore	store/store.go:646	New heaviest tipset! [bafy2bzacedvtuj2g77b4ryrum2tjzzi5cr3j6s3fcbgcy3326yg5y2gxreveo] (height=0)
+2022-04-26T11:34:03.915+0800	INFO	p2pnode	lp2p/addrs.go:101	Swarm listening at: [/ip4/127.0.0.1/tcp/55125 /ip4/10.1.8.182/tcp/55125 /ip4/26.26.26.1/tcp/55125 /ip6/::1/tcp/55128]
+2022-04-26T11:34:04.071+0800	WARN	hello	hello/hello.go:58	running without peer manager
+2022-04-26T11:34:04.073+0800	INFO	modules	modules/services.go:163	subscribing to pubsub topic /fil/blocks/localnet-ce8aa59e-a785-4154-9637-bee82c867d85
+2022-04-26T11:34:04.073+0800	INFO	modules	modules/services.go:183	subscribing to pubsub topic /fil/msgs/localnet-ce8aa59e-a785-4154-9637-bee82c867d85
+2022-04-26T11:34:04.073+0800	INFO	messagepool	messagepool/messagepool.go:439	mpool ready
+2022-04-26T11:34:04.074+0800	INFO	modules	modules/services.go:228	relaying messages for pubsub topic /indexer/ingest/localnet-ce8aa59e-a785-4154-9637-bee82c867d85
+2022-04-26T11:34:04.075+0800	WARN	modules	modules/core.go:148	Generating new API secret
+2022-04-26T11:34:04.081+0800	INFO	importmgr	imports/manager.go:62	sanity checking imports
+2022/04/26 11:34:04 storess: Query
+2022/04/26 11:34:04 storess: q.Prefix: 
+2022/04/26 11:34:04 storess: q.KeysOnly: true
+2022/04/26 11:34:04 storess: q.Filters: 0
+2022/04/26 11:34:04 storess: q.Orders: 0
+2022/04/26 11:34:04 storess: q.Offset: 0
+2022-04-26T11:34:04.081+0800	INFO	importmgr	imports/manager.go:99	sanity check completed	{"broken": 0, "total": 0}
+2022-04-26T11:34:04.083+0800	INFO	dt-impl	impl/impl.go:145	start data-transfer module
+2022-04-26T11:34:04.103+0800	INFO	markets	loggers/loggers.go:56	module ready	{"module": "client data transfer"}
+2022-04-26T11:34:04.141+0800	INFO	markets	loggers/loggers.go:56	module ready	{"module": "retrieval client"}
+2022-04-26T11:34:04.176+0800	INFO	markets	loggers/loggers.go:56	module ready	{"module": "discovery"}
+2022-04-26T11:34:04.198+0800	INFO	markets	loggers/loggers.go:56	module ready	{"module": "storage client"}
+2022-04-26T11:34:08.791+0800	INFO	watchdog	go-watchdog@v1.2.0/watchdog.go:503	heap profile captured; path: /Users/developer/.lotusDevnet/heapprof/2022-04-26T11:34:08.787098+08:00.heap
+2022-04-26T11:34:16.948+0800	WARN	fullnode	full/mpool.go:171	Push from ID address (t0100), adjusting to t3rp4nb7lqygzcmuxbdpzwjfvtk346y4eqjgefl7kzjclgfuhias3n4re3x2saq5lcskh4nhpmfobbj7v7thja
+[flexi_logger][ERRCODE::Time] flexi_logger has to work with UTC rather than with local time, caused by IndeterminateOffset
+    See https://docs.rs/flexi_logger/latest/flexi_logger/error_info/index.html#time
+2022-04-26T11:34:23.166+0800	INFO	messagepool	messagepool/selection.go:224	message selection done	{"took": 0.000348459}
+2022-04-26T11:34:23.257+0800	INFO	chain	chain/sync.go:624	block validation	{"took": 0.083018375, "height": "1", "age": 16.257939}
+2022-04-26T11:34:23.277+0800	INFO	chainstore	store/store.go:646	New heaviest tipset! [bafy2bzacecatumzq3bl2nwct7g77oeglj7fw5tukyflk5zpklnddlo2rqysbm] (height=1)
+2022-04-26T11:34:23.297+0800	WARN	sub	sub/incoming.go:100	received block with large delay from miner	{"block": "bafy2bzacecatumzq3bl2nwct7g77oeglj7fw5tukyflk5zpklnddlo2rqysbm", "delay": 16, "miner": "t01000"}
+2022-04-26T11:34:23.298+0800	INFO	chain	chain/sync_manager.go:218	selected initial sync target: [bafy2bzacecatumzq3bl2nwct7g77oeglj7fw5tukyflk5zpklnddlo2rqysbm]
+2022-04-26T11:34:23.316+0800	INFO	chain	chain/sync_manager.go:314	worker 0 syncing in [bafy2bzacecatumzq3bl2nwct7g77oeglj7fw5tukyflk5zpklnddlo2rqysbm]
+2022-04-26T11:34:23.316+0800	INFO	chain	chain/sync_manager.go:322	worker 0 done; took 1.333µs
+2022-04-26T11:34:26.273+0800	INFO	chain	chain/sync.go:624	block validation	{"took": 0.061602917, "height": "2", "age": 15.273414}
+2022-04-26T11:34:26.274+0800	INFO	chainstore	store/store.go:646	New heaviest tipset! [bafy2bzaceb3tje36sjwhgnfwn4rbpsgugcmoc5skmrsgq3kgrn7fkoooqcqjq] (height=2)
+2022-04-26T11:34:26.311+0800	WARN	sub	sub/incoming.go:100	received block with large delay from miner	{"block": "bafy2bzaceb3tje36sjwhgnfwn4rbpsgugcmoc5skmrsgq3kgrn7fkoooqcqjq", "delay": 15, "miner": "t01000"}
+2022-04-26T11:34:26.312+0800	INFO	chain	chain/sync_manager.go:232	selected sync target: [bafy2bzaceb3tje36sjwhgnfwn4rbpsgugcmoc5skmrsgq3kgrn7fkoooqcqjq]
+2022-04-26T11:34:26.312+0800	INFO	chain	chain/sync_manager.go:314	worker 1 syncing in [bafy2bzaceb3tje36sjwhgnfwn4rbpsgugcmoc5skmrsgq3kgrn7fkoooqcqjq]
+2022-04-26T11:34:26.312+0800	INFO	chain	chain/sync_manager.go:322	worker 1 done; took 1.541µs
+2022-04-26T11:34:29.365+0800	INFO	chain	chain/sync.go:624	block validation	{"took": 0.02624775, "height": "3", "age": 14.365814}
+2022-04-26T11:34:29.367+0800	INFO	chainstore	store/store.go:646	New heaviest tipset! [bafy2bzacec2jb3wfajxxnlurhq42v6pq6c2c5xbup76ks3557rsvxkwk47oee] (height=3)
+2022-04-26T11:34:29.403+0800	WARN	sub	sub/incoming.go:100	received block with large delay from miner	{"block": "bafy2bzacec2jb3wfajxxnlurhq42v6pq6c2c5xbup76ks3557rsvxkwk47oee", "delay": 14, "miner": "t01000"}
+2022-04-26T11:34:29.403+0800	INFO	chain	chain/sync_manager.go:232	selected sync target: [bafy2bzacec2jb3wfajxxnlurhq42v6pq6c2c5xbup76ks3557rsvxkwk47oee]
+2022-04-26T11:34:29.403+0800	INFO	chain	chain/sync_manager.go:314	worker 2 syncing in [bafy2bzacec2jb3wfajxxnlurhq42v6pq6c2c5xbup76ks3557rsvxkwk47oee]
+2022-04-26T11:34:29.403+0800	INFO	chain	chain/sync_manager.go:322	worker 2 done; took 1.292µs
+2022-04-26T11:34:32.523+0800	INFO	chain	chain/sync.go:624	block validation	{"took": 0.026155958, "height": "4", "age": 13.523867}
+2022-04-26T11:34:32.543+0800	INFO	chainstore	store/store.go:646	New heaviest tipset! [bafy2bzacecu7uxsbyxqjmzppfapvfzzc7hwqlp6pkfdirn6urrffl366ocf7c] (height=4)
+2022-04-26T11:34:32.562+0800	WARN	sub	sub/incoming.go:100	received block with large delay from miner	{"block": "bafy2bzacecu7uxsbyxqjmzppfapvfzzc7hwqlp6pkfdirn6urrffl366ocf7c", "delay": 13, "miner": "t01000"}
+2022-04-26T11:34:32.563+0800	INFO	chain	chain/sync_manager.go:232	selected sync target: [bafy2bzacecu7uxsbyxqjmzppfapvfzzc7hwqlp6pkfdirn6urrffl366ocf7c]
+2022-04-26T11:34:32.582+0800	INFO	chain	chain/sync_manager.go:314	worker 3 syncing in [bafy2bzacecu7uxsbyxqjmzppfapvfzzc7hwqlp6pkfdirn6urrffl366ocf7c]
+2022-04-26T11:34:32.582+0800	INFO	chain	chain/sync_manager.go:322	worker 3 done; took 4.167µs
+2022-04-26T11:34:35.714+0800	INFO	chain	chain/sync.go:624	block validation	{"took": 0.026358208, "height": "5", "age": 12.714175}
+2022-04-26T11:34:35.715+0800	INFO	chainstore	store/store.go:646	New heaviest tipset! [bafy2bzaceb2ts224lpiser3alzrhf6zcgtgatrp3fisxlmrbf3djcgd3ohlou] (height=5)
+2022-04-26T11:34:35.752+0800	WARN	sub	sub/incoming.go:100	received block with large delay from miner	{"block": "bafy2bzaceb2ts224lpiser3alzrhf6zcgtgatrp3fisxlmrbf3djcgd3ohlou", "delay": 12, "miner": "t01000"}
+2022-04-26T11:34:35.772+0800	INFO	chain	chain/sync_manager.go:232	selected sync target: [bafy2bzaceb2ts224lpiser3alzrhf6zcgtgatrp3fisxlmrbf3djcgd3ohlou]
+2022-04-26T11:34:35.772+0800	INFO	chain	chain/sync_manager.go:314	worker 4 syncing in [bafy2bzaceb2ts224lpiser3alzrhf6zcgtgatrp3fisxlmrbf3djcgd3ohlou]
+2022-04-26T11:34:35.773+0800	INFO	chain	chain/sync_manager.go:322	worker 4 done; took 4.083µs
+2022-04-26T11:34:38.895+0800	INFO	chain	chain/sync.go:624	block validation	{"took": 0.039299375, "height": "6", "age": 11.89577}
+2022-04-26T11:34:38.896+0800	INFO	chainstore	store/store.go:646	New heaviest tipset! [bafy2bzaceb7hgelalvbtckpwwntvidumtiixvxb7yndtizpgiwyf47lvdb53g] (height=6)
+2022-04-26T11:34:38.953+0800	WARN	sub	sub/incoming.go:100	received block with large delay from miner	{"block": "bafy2bzaceb7hgelalvbtckpwwntvidumtiixvxb7yndtizpgiwyf47lvdb53g", "delay": 11, "miner": "t01000"}
+2022-04-26T11:34:38.953+0800	INFO	chain	chain/sync_manager.go:232	selected sync target: [bafy2bzaceb7hgelalvbtckpwwntvidumtiixvxb7yndtizpgiwyf47lvdb53g]
+2022-04-26T11:34:38.953+0800	INFO	chain	chain/sync_manager.go:314	worker 5 syncing in [bafy2bzaceb7hgelalvbtckpwwntvidumtiixvxb7yndtizpgiwyf47lvdb53g]
+2022-04-26T11:34:38.953+0800	INFO	chain	chain/sync_manager.go:322	worker 5 done; took 1.208µs
+2022-04-26T11:34:41.980+0800	INFO	chain	chain/sync.go:624	block validation	{"took": 0.025187542, "height": "7", "age": 10.980468}
+2022-04-26T11:34:41.981+0800	INFO	chainstore	store/store.go:646	New heaviest tipset! [bafy2bzaceahlcicac64yb6bq4o2fedvu7qb5rq3ibf7kmic6edz6javjqgfm6] (height=7)
+2022-04-26T11:34:42.017+0800	WARN	sub	sub/incoming.go:100	received block with large delay from miner	{"block": "bafy2bzaceahlcicac64yb6bq4o2fedvu7qb5rq3ibf7kmic6edz6javjqgfm6", "delay": 11, "miner": "t01000"}
+2022-04-26T11:34:42.018+0800	INFO	chain	chain/sync_manager.go:232	selected sync target: [bafy2bzaceahlcicac64yb6bq4o2fedvu7qb5rq3ibf7kmic6edz6javjqgfm6]
+2022-04-26T11:34:42.036+0800	INFO	chain	chain/sync_manager.go:314	worker 6 syncing in [bafy2bzaceahlcicac64yb6bq4o2fedvu7qb5rq3ibf7kmic6edz6javjqgfm6]
+2022-04-26T11:34:42.036+0800	INFO	chain	chain/sync_manager.go:322	worker 6 done; took 4.667µs
